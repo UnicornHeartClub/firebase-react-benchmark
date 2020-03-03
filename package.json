@@ -1,0 +1,13 @@
+{
+  "name": "benchmark-firebase-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "echo '@TODO'",
+    "simulate": "echo '@TODO'"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
